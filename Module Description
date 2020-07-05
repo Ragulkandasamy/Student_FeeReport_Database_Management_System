@@ -1,0 +1,37 @@
+The Student fee report has many modules
+• Fee report module
+• Admin login module
+•Accountant module
+•Admin section module
+•Accountant section module
+•Add Student module
+•Fee due Module
+•Update Student module
+•View Student module
+
+Fee report module:
+Fee report module is the first page in which we select our login mode. You can access the software as Admin or Accountant. Admin is regarded as the institutional head such as principle or dean. While the accountants are the office staffs who keep track of the student fee details.      
+
+Admin login module:
+Admin login module helps us to login as an admin. Admin has constant username and password. The username and the password of the user are fixed. The username and password of the admin can be changed only by the developers.    
+
+Accountant module:
+Accountant module is the module in which we can login as an accountant, User can add accountant. The username and password of the accountant is set in admin section. The accountants add and maintain the student details. The username and password of the accountant cannot be edited. To change the details we must create a new account for the accountant.    
+
+Admin section module
+Admin section module mentions all the operations that can be performed by the admin. The operations that can be performed are adding accountant and viewing accountant. We can add accountant during add accountant operation and we can view the account details in by clicking the button. 
+ 
+Accountant section module:
+Accountant section module mentions all the operations that can be performed by the accountant. The Accountant has four operations which are view student, update student, due fee and add student. Different accountant can add and view every student details.
+  
+Add Student module:
+The accountant can add student with details such as name, address, due fee, total fee, email id and phone number, city, country. This module helps us to add student details in the database and store it.
+
+Update Student module:
+The accountant can update student details such as name, address, due fee, total fee, email, email id and phone number, city, country. This module helps the accountant to rectify any error he made while adding student. If the student pays the due fees the accountant can update the details through this module   
+ 
+View Student Module:
+This module shows us the details of the student. This module displays all the personal details such as address, name, phone number, city, fees paid etc. to the accountant.
+ 
+Fee due Module:
+This module will act as an interface helping the accountant to keep track of which student has paid he fees and which student has not, so has to maintain proper financial records.
